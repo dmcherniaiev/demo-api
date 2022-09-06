@@ -1,14 +1,52 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "pmo_id": "",
+    "openair_id": "",
+    "bamboo_id": "",
+    "username": "",
+    "email": "",
+    "first_name": "",
+    "last_name": "",
+    "country": "",
+    "city": "",
+    "latest_profile": "",
+    "latest_specialization": "",
+    "latest_discipline": "",
+    "latest_grade": "",
+    "latest_division": "",
+    "latest_manager": "",
+    "assignments": [
+      {
+        "account_id": 1,
+        "account_name": "",
+        "project_id": 1,
+        "project_name": "",
+        "status": "",
+        "started_on": "2022-12-31",
+        "ended_on": "2022-12-31"
+      }
+    ],
+    "timesheets": [
+      {
+        "from": "2022-12-31",
+        "to": "2022-12-31",
+        "total_hours": 88.8,
+        "status": "A|S",
+        "tasks": [
+          {
+            "date": "2022-12-31",
+            "hours": 8.8,
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "timeoffs": [
+      {
+        "date": "2022-12-31",
+        "type": "sickleave|vacation",
+        "status": "requested|approved"
+      }
+    ]
   }
-}
+]
