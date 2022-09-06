@@ -1,14 +1,14 @@
 [
   {
-    "pmo_id": "",
-    "openair_id": "",
-    "bamboo_id": "",
-    "username": "",
-    "email": "",
-    "first_name": "",
-    "last_name": "",
-    "country": "",
-    "city": "",
+    "pmo_id": "123",
+    "openair_id": "321",
+    "bamboo_id": "4124",
+    "username": "dmcherniaiev",
+    "email": "dmcherniaiev@griddynamics.com",
+    "first_name": "Dmytro",
+    "last_name": "Cherniaiev",
+    "country": "Ukraine",
+    "city": "Lvyv",
     "latest_profile": "",
     "latest_specialization": "",
     "latest_discipline": "",
@@ -18,11 +18,11 @@
     "assignments": [
       {
         "account_id": 1,
-        "account_name": "",
+        "account_name": "Macy's",
         "project_id": 1,
-        "project_name": "",
+        "project_name": "PROS",
         "status": "",
-        "started_on": "2022-12-31",
+        "started_on": "2021-08-10",
         "ended_on": "2022-12-31"
       }
     ],
